@@ -1,0 +1,15 @@
+ProductID,ProductName,Subcategory,Cost,Price
+1,24" Monitor,Displays,120,249
+2,27" Monitor,Displays,180,349
+3,Ultrawide Monitor,Displays,280,549
+4,Business Laptop,Computers,450,899
+5,Gaming Laptop,Computers,650,1299
+6,Mid-range Smartphone,Phones,200,449
+7,Wireless Mouse,Accessories,8,24
+8,Bluetooth Headphones,Accessories,25,69
+9,Power Bank 20Ah,Accessories,18,45
+10,Webcam HD,Accessories,35,79
+11,Mechanical Keyboard,Accessories,45,99
+12,Laptop Stand,Accessories,20,49
+13,Desktop PC,Computers,400,799
+14,Tablet 10",Phones,150,329
